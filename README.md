@@ -1,6 +1,5 @@
 # Hosted on vercel
 
-https://vercel.com/llenttos-projects/analytics-platform/4CmkvcrxTGheDgYpBhjMosETLdmM
-
+https://analytics-platform-git-main-llenttos-projects.vercel.app/
 
 README FILE TO BE UPDATED AS PROJECT GOES ON
